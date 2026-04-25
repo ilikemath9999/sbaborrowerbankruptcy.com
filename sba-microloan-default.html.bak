@@ -4,18 +4,18 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
-<title>SBA Collections Timeline - What to Expect After Default</title>
-<meta name="description" content="The step-by-step SBA collection process for defaulted loans.">
-<link rel="canonical" href="https://sbaborrowerbankruptcy.com/sba-collections-timeline.html">
-<meta property="og:title" content="SBA Collections Timeline - What to Expect After Default">
-<meta property="og:description" content="The step-by-step SBA collection process for defaulted loans.">
+<title>SBA Microloan Default - Options and Bankruptcy</title>
+<meta name="description" content="How bankruptcy handles SBA microloans up to $50,000.">
+<link rel="canonical" href="https://sbaborrowerbankruptcy.com/sba-microloan-default.html">
+<meta property="og:title" content="SBA Microloan Default - Options and Bankruptcy">
+<meta property="og:description" content="How bankruptcy handles SBA microloans up to $50,000.">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://sbaborrowerbankruptcy.com/sba-collections-timeline.html">
+<meta property="og:url" content="https://sbaborrowerbankruptcy.com/sba-microloan-default.html">
 <meta property="og:site_name" content="sbaborrowerbankruptcy.com">
 <meta property="og:image" content="https://sbaborrowerbankruptcy.com/og-image.svg">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="SBA Collections Timeline - What to Expect After Default">
-<meta name="twitter:description" content="The step-by-step SBA collection process for defaulted loans.">
+<meta name="twitter:title" content="SBA Microloan Default - Options and Bankruptcy">
+<meta name="twitter:description" content="How bankruptcy handles SBA microloans up to $50,000.">
 <meta name="twitter:image" content="https://sbaborrowerbankruptcy.com/og-image.svg">
 <meta name="theme-color" content="#0d1117">
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
@@ -25,55 +25,33 @@
 <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());
   gtag('set', 'allow_ad_personalization_signals', false);gtag('config','G-FTWLM223G7');gtag('config','G-053Z64N82F');</script>
 <!-- BTN:GA4:END -->
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "SBA Collections Timeline - What to Expect After Default", "datePublished": "2026-03-31", "dateModified": "2026-03-31", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}}</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "When is the best time to file?", "acceptedAnswer": {"@type": "Answer", "text": "Earlier is better. Before Treasury referral avoids the 28% fee surcharge. Before judgment prevents liens."}}, {"@type": "Question", "name": "Can I negotiate after Treasury referral?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, but the balance is now higher. A bankruptcy attorney strengthens your position."}}, {"@type": "Question", "name": "How long can the SBA pursue me?", "acceptedAnswer": {"@type": "Answer", "text": "10-year litigation SOL, but Treasury offset has no limit. Bankruptcy is the only permanent stop."}}]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Article", "headline": "SBA Microloan Default - Options and Bankruptcy", "datePublished": "2026-03-31", "dateModified": "2026-03-31", "author": {"@type": "Organization", "name": "Open Bankruptcy Project"}, "publisher": {"@type": "Organization", "name": "Open Bankruptcy Project", "url": "https://openbankruptcyproject.org"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do microloans require a personal guarantee?", "acceptedAnswer": {"@type": "Answer", "text": "Depends on the intermediary. Check your documents. If no guarantee, only business assets are at risk."}}, {"@type": "Question", "name": "Can I just ignore a default?", "acceptedAnswer": {"@type": "Answer", "text": "Not advisable. Even small debts can result in judgments and garnishment."}}, {"@type": "Question", "name": "Is a microloan small enough to handle without bankruptcy?", "acceptedAnswer": {"@type": "Answer", "text": "Under $10,000, negotiation is often practical. For larger amounts or combined with other debts, bankruptcy addresses everything at once."}}]}</script>
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "WebPage", "name": "SBA Collections Timeline - What to Expect After Default", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://sbaborrowerbankruptcy.com/sba-collections-timeline.html"}
+{"@context": "https://schema.org", "@type": "WebPage", "name": "SBA Microloan Default - Options and Bankruptcy", "speakable": {"@type": "SpeakableSpecification", "cssSelector": ["h1", ".subtitle", ".faq-item h3", ".faq-item p"]}, "url": "https://sbaborrowerbankruptcy.com/sba-microloan-default.html"}
 </script>
 <style>:root{--bg:#0d1117;--surface:#151b23;--border:#30363d;--text:#e6edf3;--text-muted:#9eaab6;--accent:#58a6ff}*{margin:0;padding:0;box-sizing:border-box}body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif;background:var(--bg);color:var(--text);line-height:1.7}a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}.container{max-width:860px;margin:0 auto;padding:2rem 1.5rem}header{text-align:center;padding:3rem 1rem 2rem;border-bottom:1px solid var(--border)}header h1{font-size:2.2rem;margin-bottom:.5rem}header .subtitle{color:var(--text-muted);font-size:1.1rem}nav.breadcrumb{padding:1rem 0;font-size:.9rem}.content-section{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:1.5rem 2rem;margin:1.5rem 0}.content-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem;border-bottom:1px solid var(--border);padding-bottom:.5rem}.content-section p{margin-bottom:1rem}.content-section p:last-child{margin-bottom:0}.faq-section{margin:2rem 0}.faq-section h2{color:var(--accent);font-size:1.4rem;margin-bottom:1rem}.faq-item{background:var(--surface);border:1px solid var(--border);border-radius:8px;margin:.75rem 0;padding:1rem 1.5rem}.faq-item h3{color:var(--text);font-size:1rem;margin-bottom:.5rem}.faq-item p{color:var(--text-muted);font-size:.95rem;margin:0}.cta-box{background:linear-gradient(135deg,#1a1f2e,#0d1117);border:2px solid var(--accent);border-radius:12px;padding:2rem;text-align:center;margin:2rem 0}.cta-box p{font-size:1.1rem;margin-bottom:1rem}.btn{display:inline-block;background:var(--accent);color:#0d1117;padding:.75rem 2rem;border-radius:8px;font-weight:700;text-decoration:none}.btn:hover{opacity:.9;text-decoration:none}.about-data{background:var(--surface);border:1px solid var(--border);border-radius:8px;padding:1.5rem;margin:2rem 0;font-size:.9rem;color:var(--text-muted)}.network-footer{text-align:center;padding:2rem 1rem;margin-top:2rem;border-top:1px solid var(--border);font-size:.85rem;color:var(--text-muted)}.network-footer strong{color:var(--text)}.network-footer .links{margin:1rem 0;line-height:2}.network-footer .links a{margin:0 .5rem}.network-footer .disclaimer{font-size:.75rem;margin-top:1rem}@media(max-width:600px){.container{padding:1rem}.content-section{padding:1rem 1.25rem}header h1{font-size:1.6rem}}</style>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://sbaborrowerbankruptcy.com/"}, {"@type": "ListItem", "position": 2, "name": "SBA Collections Timeline - What to Expect After Default | sbaborrowerbankruptcy.com", "item": "https://sbaborrowerbankruptcy.com/sba-collections-timeline.html"}]}
+{"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [{"@type": "ListItem", "position": 1, "name": "Home", "item": "https://sbaborrowerbankruptcy.com/"}, {"@type": "ListItem", "position": 2, "name": "SBA Microloan Default - Options and Bankruptcy | sbaborrowerbankruptcy.com", "item": "https://sbaborrowerbankruptcy.com/sba-microloan-default.html"}]}
 </script>
 
-<link rel="alternate" hreflang="en" href="https://sbaborrowerbankruptcy.com/sba-collections-timeline.html">
-<link rel="alternate" hreflang="es" href="https://sbaborrowerbankruptcy.com/sba-collections-timeline-es.html">
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link rel="alternate" hreflang="en" href="https://sbaborrowerbankruptcy.com/sba-microloan-default.html">
+<link rel="alternate" hreflang="es" href="https://sbaborrowerbankruptcy.com/sba-microloan-default-es.html">
 </head>
 <body>
-<header><h1>SBA Collections Timeline</h1><p class="subtitle">What to Expect After Default</p></header>
+<header><h1>SBA Microloan Default</h1><p class="subtitle">Options and Bankruptcy</p></header>
 <div class="container">
-<nav class="breadcrumb"><a href="/">Home</a> &raquo; SBA Collections Timeline</nav>
+<nav class="breadcrumb"><a href="/">Home</a> &raquo; SBA Microloan Default</nav>
 <main id="main-content">
-  <div class="content-section"><h2>Lender Collection (0-6 months)</h2><p>The private lender initiates collection: demand letters, acceleration, possibly a lawsuit. Negotiate directly - workouts avoid triggering the SBA guarantee.</p></div>
-  <div class="content-section"><h2>SBA Guarantee Purchase (3-12 months)</h2><p>The lender submits a claim. SBA pays the lender and becomes your creditor. You now have two potential creditors.</p></div>
-  <div class="content-section"><h2>SBA and Treasury Collection (6-24 months)</h2><p>Demand letters, <a href='https://eidlbankruptcy.com/offer-in-compromise.html?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network'>OIC option</a>, then Treasury Offset and cross-servicing. Administrative fees up to 28% added.</p></div>
-  <div class="content-section"><h2>DOJ Litigation (18+ months)</h2><p>Full lawsuit for amount plus interest and penalties. Filing bankruptcy at any point stops everything.</p></div>
+  <div class="content-section"><h2>Microloan Overview</h2><p>Loans up to $50,000 through nonprofit intermediaries. May not require personal guarantees. Less collateral than larger SBA loans.</p></div>
+  <div class="content-section"><h2>Default Consequences</h2><p>The intermediary attempts collection, reports to credit bureaus, and may pursue legal action. Collection is often less aggressive due to smaller amounts.</p></div>
+  <div class="content-section"><h2>Bankruptcy Treatment</h2><p>Fully dischargeable. In <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a>, eliminated completely. In <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a>, treated as general unsecured. A microloan alone may not justify bankruptcy.</p></div>
 
   <div class="faq-section"><h2>Frequently Asked Questions</h2>
-    <div class="faq-item"><h3>When is the best time to file?</h3><p>Earlier is better. Before Treasury referral avoids the 28% fee surcharge. Before judgment prevents liens.</p></div>
-    <div class="faq-item"><h3>Can I negotiate after Treasury referral?</h3><p>Yes, but the balance is now higher. A bankruptcy attorney strengthens your position.</p></div>
-    <div class="faq-item"><h3>How long can the SBA pursue me?</h3><p>10-year litigation SOL, but Treasury offset has no limit. Bankruptcy is the only permanent stop.</p></div>
+    <div class="faq-item"><h3>Do microloans require a personal guarantee?</h3><p>Depends on the intermediary. Check your documents. If no guarantee, only business assets are at risk.</p></div>
+    <div class="faq-item"><h3>Can I just ignore a default?</h3><p>Not advisable. Even small debts can result in judgments and <a href="https://stopgarnishment.org/" title="wage garnishment">garnishment</a>.</p></div>
+    <div class="faq-item"><h3>Is a microloan small enough to handle without bankruptcy?</h3><p>Under $10,000, negotiation is often practical. For larger amounts or combined with other debts, bankruptcy addresses everything at once.</p></div>
   </div>
 
   <div class="cta-box"><p>Check your bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> eligibility with our free screening tool.</p><a href="https://1328f.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network" class="btn">Free Discharge Screener</a></div>
@@ -124,7 +102,7 @@
 <!-- /RELATED GUIDES -->
 
 <!-- BTN:FOOTER:START -->
-<footer class="network-footer" role="contentinfo"><p><strong>Part of the Open Bankruptcy Project</strong></p><div class="links"><a href="https://1328f.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Discharge Screener</a> <a href="https://openbankruptcyproject.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a> <a href="https://chapter7vs13.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Ch.7 vs Ch.13</a> <a href="https://automaticstay.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Automatic Stay</a> <a href="https://howmuchdoesbankruptcycost.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Bankruptcy Cost</a> <a href="https://meanstest.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Means Test</a> <a href="https://deficiencybalance.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Deficiency Balance</a> <a href="https://brunnertest.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Brunner Test</a> <a href="https://debtbuyerrights.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Debt Buyer Rights</a> <a href="https://vacatejudgment.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Vacate Judgment</a></div><p class="disclaimer">Free bankruptcy education. Not legal advice. A project of the <a href="https://openbankruptcyproject.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>, a 501(c)(3) public charity (EIN 41-5159631).</p><p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Terms</a></p><div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
+<footer class="network-footer" role="contentinfo"><p><strong>Part of the Bankruptcy Transparency Network</strong></p><div class="links"><a href="https://1328f.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Discharge Screener</a> <a href="https://openbankruptcyproject.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a> <a href="https://chapter7vs13.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Ch.7 vs Ch.13</a> <a href="https://automaticstay.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Automatic Stay</a> <a href="https://howmuchdoesbankruptcycost.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Bankruptcy Cost</a> <a href="https://meanstest.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Means Test</a> <a href="https://deficiencybalance.com?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Deficiency Balance</a> <a href="https://brunnertest.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Brunner Test</a> <a href="https://debtbuyerrights.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Debt Buyer Rights</a> <a href="https://vacatejudgment.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Vacate Judgment</a></div><p class="disclaimer">Free bankruptcy education. Not legal advice. A project of the <a href="https://openbankruptcyproject.org?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Open Bankruptcy Project</a>, a 501(c)(3) nonprofit.</p><p><a href="https://openbankruptcyproject.org/privacy.html?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=sbaborrowerbankruptcy.com&utm_medium=referral&utm_campaign=btn-network">Terms</a></p><div style="text-align:center;padding:1rem 0 0;border-top:1px solid #30363d;margin-top:1.5rem">
 <p style="color:#7d8590;font-size:0.75rem">Our research was cited by the federal judiciary as <a href="https://www.uscourts.gov/rules-policies/records-and-archives-rules-committees/rules-suggestions" target="_blank" rel="noopener" style="color:#58a6ff">Suggestion 26-BK-3</a></p>
 </div>
 </footer>
